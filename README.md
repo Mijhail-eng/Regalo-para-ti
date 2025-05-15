@@ -1,1 +1,1 @@
-redirect_to: https://tunombre.github.io/regalo-para-ti/index.html
+permalink: /404.html
