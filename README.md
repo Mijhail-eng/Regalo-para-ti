@@ -1,2 +1,1 @@
-# Regalo-para-ti
-Es un pequeño presente por tu cumpleaños amor.
+redirect_to: https://tunombre.github.io/regalo-para-ti/index.html
